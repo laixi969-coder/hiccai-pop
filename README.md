@@ -2,7 +2,7 @@
 
 默认一部手机即可拍摄、录音和基础剪辑的海外短视频创意与分镜 Skill，适用于 Codex、Claude Code 和 Antigravity。
 
-当前版本：**3.3.0**。基于新版 `tiktok.docx` 的 160 条文字方案更新：KOC 30 条、数字工具与 Faceless 50 条、实体商品 80 条。文档自述的播放量、账号与产品效果未核验，不作为已验证爆款背书。
+当前版本：**3.4.0**。基于新版 `tiktok.docx` 的 160 条文字方案更新：KOC 30 条、数字工具与 Faceless 50 条、实体商品 80 条。文档自述的播放量、账号与产品效果未核验，不作为已验证爆款背书。
 
 核心创作标准：**先用熟人视角和生活小事建立关注，用可见异常与短顶部文字引导误判，再让产品的真实能力解释前面的画面。**
 
@@ -25,6 +25,7 @@
 - [Faceless 与纯录屏拍法](references/faceless-screen-playbook.md)：出镜分类、界面曝光、操作语法和完整示例。
 - [历史 90 条样本分析](references/tiktok-sample-analysis.md)：两批样本差异、七条规律、原文矛盾和更新依据。
 - [历史 90 条逐项索引](references/sample-bank-v2.md)：原文定位、机制判断、可迁移结构和修正建议。
+- [Hook机制与组合库](references/hook-patterns.md)：新增分析材料的四维拆解、八类机制、组合方法、文字模板与取舍边界。
 - [前三秒钩子方法](references/first-three-seconds.md)：通道选择、首屏阅读、时间组织、实际失败诊断与淘汰标准。
 - [原生叙事机制与完整改写](references/native-story-playbook.md)：字幕、机位、循环、三个可拍示例。
 - [行为测试提示](test-prompts.json)：回归请求及验收点；不是已执行的自动化创作测试。
